@@ -1,0 +1,174 @@
+<thaatvideo>
+	<todi>
+		<desc>This is todi</desc>
+		<scale>
+			<id>C</id>
+			<name>C</name>
+			<video>https://www.youtube.com/watch?v=LVet1u-HeZQ</video>
+			<video>https://www.youtube.com/watch?v=uUCkBIelSjM</video>
+			<video>https://www.youtube.com/watch?v=G6Jpco8kKds</video>
+		</scale>
+		<scale>
+			<id>C1</id>
+			<name>C#</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+		<scale>
+			<id>D</id>
+			<name>D</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+		<scale>
+			<id>D1</id>
+			<name>D#</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+		<scale>
+			<id>E</id>
+			<name>E</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+	</todi>
+	<bhairavi>
+		<desc>This is todi</desc>
+		<scale>
+			<id>C</id>
+			<name>C</name>
+			<video>https://www.youtube.com/watch?v=LVet1u-HeZQ</video>
+			<video>https://www.youtube.com/watch?v=uUCkBIelSjM</video>
+			<video>https://www.youtube.com/watch?v=G6Jpco8kKds</video>
+		</scale>
+		<scale>
+			<id>C1</id>
+			<name>C#</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+		<scale>
+			<id>D</id>
+			<name>D</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+		<scale>
+			<id>D1</id>
+			<name>D#</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+		<scale>
+			<id>E</id>
+			<name>E</name>
+			<videos>
+				<video>
+					<desc>Video 1</desc>
+					<link>https://www.youtube.com/watch?v=LVet1u-HeZQ</link>
+				</video>
+				<video>
+					<desc>Video 2</desc>
+					<link>https://www.youtube.com/watch?v=uUCkBIelSjM</link>
+				</video>
+				<video>
+					<desc>Video3</desc>
+					<link>https://www.youtube.com/watch?v=G6Jpco8kKds</link>
+				</video>
+			</videos>
+		</scale>
+	</bhairavi>
+	<kalyan></kalyan>
+	<bilawal></bilawal>
+	<purvi></purvi>
+	<marwa></marwa>
+	<khamaj></khamaj>
+	<bhairav></bhairav>
+	<asavari></asavari>
+	<kafi></kafi>
+</thaatvideo>

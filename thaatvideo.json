@@ -1,0 +1,203 @@
+thaatVideos1 = {
+  "thaatvideo": {
+    "todi": {
+      "desc": "This is todi",
+      "scale": [
+        {
+          "id": "C",
+          "name": "C",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/embed/-GRqHkV9Bls"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/embed/uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/embed/G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "C1",
+          "name": "C#",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "name": "D",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "D1",
+          "name": "D#",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "E",
+          "name": "E",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "bhairavi": {
+      "desc": "This is todi",
+      "scale": [
+        {
+          "id": "C",
+          "name": "C",
+          "video": [
+            "https://www.youtube.com/watch?v=LVet1u-HeZQ",
+            "https://www.youtube.com/watch?v=uUCkBIelSjM",
+            "https://www.youtube.com/watch?v=G6Jpco8kKds"
+          ]
+        },
+        {
+          "id": "C1",
+          "name": "C#",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "name": "D",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "D1",
+          "name": "D#",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        },
+        {
+          "id": "E",
+          "name": "E",
+          "videos": {
+            "video": [
+              {
+                "desc": "Video 1",
+                "link": "https://www.youtube.com/watch?v=LVet1u-HeZQ"
+              },
+              {
+                "desc": "Video 2",
+                "link": "https://www.youtube.com/watch?v=uUCkBIelSjM"
+              },
+              {
+                "desc": "Video 3",
+                "link": "https://www.youtube.com/watch?v=G6Jpco8kKds"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+};
